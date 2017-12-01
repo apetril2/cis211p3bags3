@@ -1,0 +1,88 @@
+Artist ID	Artist Name	Art ID	Art Title	Appraised Value
+1	Acconci	1038	Spring Flowers	800
+		1050	Cattle Ranch	10000
+		1103	Trail End	8000
+2	Ames	1042	Coffee on the Trail	7544
+3	Aserty	1013	Superstitions	78000
+		1021	Bead Wall	14000
+		1034	Beaver Pole Jumble	28000
+		1063	Asleep in the Garden	110000
+4	Baron	1070	Beginnings	27500
+5	Battenberg	1036	Blackhawk	25500
+6	Bindner	1017	Brittlecone	1300
+		1053	Blue Eyed Indian	40000
+		1056	Cavalry Is Coming	1900
+		1075	Western Boots and Spurs	6000
+		1077	Bull Riding	5200
+7	Blain	1049	Buttercup with Red Lip	400
+8	Blum	1018	Mountain Scene	2500
+9	Budd	1055	Starlit Evening	9500
+10	Cardenas	1096	Ceremonial Sticks	15000
+11	Carpenter	1090	Off the Grid	8000
+12	Chico	1003	Spring Flowers	2400
+13	Colvin	1081	Coming Under Fire	650
+14	Cox	1039	Treachery	20000
+		1102	Crying Hats	10000
+15	Cridler	1073	Dancing in the Light	4000
+16	Curtis	1052	American Rodeo	3500
+17	Dawson	1059	Dwelling	16000
+18	DiGrigoro	1005	The Hang	8000
+19	Dill	1011	Eve	975
+20	Edwards	1099	Watch That Rattler	900
+21	Fleming	1037	Floating World	2350
+22	Fratt	1109	Friends	16000
+23	Garber	1084	Crossing the Platt River	2200
+24	Garin	1072	Funnel	4500
+25	Giama	1115	Starry Night	8500
+26	Gilhooly	1008	End of the Path	1900
+27	Gonzales	1112	Dark Canyon	8000
+28	Guys	1009	Amen	3000
+		1030	Ash Bench	13000
+		1043	Creosote Bushes	18000
+		1078	Chuckwagon	32000
+29	Hamend	1041	Night Version	3800
+		1082	Spring Flowers	20000
+30	Higgins	1116	Apache Warrior	23000
+31	Hofmann	1029	Horseshoe Falls	15000
+32	Ibe	1006	House Remembered	700
+33	Indiana	1046	Immediate Gratification	1500
+34	Ingraham	1031	Inside/Out	3500
+35	Irvin	1107	Striking It Rich	1750
+36	Kerrihard	1051	Night Version	7000
+37	Kollasch	1088	Lessons	3700
+38	Kritz	1045	Leaf Patterns	2100
+		1100	Hungry Cowboys	750
+39	Lerman	1094	Life Is Sweet	25000
+40	Long	1106	Horse Corral	12500
+41	Lowney	1062	Cowboy and Saddle	18000
+42	Lundquist	1032	Rising Sun	2000
+		1060	Story Sticks	650
+43	Lutes	1044	Mexican Fiesta	14000
+44	Maglich	1047	Medicine Man	2500
+45	McGraw	1014	Plenty	500
+46	McIver	1015	Punch	10000
+47	Meglech	1023	Shooting the Rapids	1300
+		1027	Mountain Climber	4700
+		1035	Nature/Nurture	1300
+		1040	Night on the Praire	1300
+		1065	Moonlite 	1300
+		1092	Dressing Up	1300
+48	Metz	1024	Spirit and Nature	592
+49	Miller	1067	Owl in Flight	7000
+50	Mogan	1001	Red Rock Mountain	18000
+		1028	Tired Cowboy	4700
+		1054	Snake Charmer	4500
+		1068	Moonlight	9750
+		1069	Renaissance	5500
+		1113	Shadow House	5500
+		1114	Storytelling at the Campfire	18000
+51	Motherwell	1064	Spirit Columns	7000
+52	Novarre	1002	Offerings 	10000
+53	Odiezma	1089	Life Lessons	4125
+54	Ortega	1091	Stone Palette	11500
+55	Parker	1074	Storm on the Rise	8000
+56	Penn	1098	Sweet Project	592
+57	Pierobon	1048	Comfy Chair	800
+58	Prinzen	1101	The Red Door	10000
+59	Quiroz	1080	The Dust Behind	18000
+60	Rath	1058	The Gathering	250
